@@ -1,0 +1,12 @@
+@import './base/normalize';
+@import './base/reset';
+@import './base/container';
+
+.aside {
+  background-color: orange;
+  padding: 10px;
+}
+
+.container__main {
+  margin-left: 30px;
+}
